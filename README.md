@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE:28.11.2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,17 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/797cfe25-81ac-4c85-94c1-8154d5844e47" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/91f6ddfd-0bff-4d7a-990c-d4d02e01fde1" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/78d75175-d48a-4fef-8cd4-7aa014d4df0c" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/f6211cae-c51c-48ff-ae71-e8dc5dc96d8c" />
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/8b08810c-11b9-42b7-b6d8-e7425711b98c" />
 
-### Name: 
-### Register Number:
+
+
+
+### Name: LOHINI S
+### Register Number: 25015038
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
