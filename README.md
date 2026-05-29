@@ -59,12 +59,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/797cfe25-81ac-4c85-94c1-8154d5844e47" />
-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/91f6ddfd-0bff-4d7a-990c-d4d02e01fde1" />
-<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/78d75175-d48a-4fef-8cd4-7aa014d4df0c" />
-<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/f6211cae-c51c-48ff-ae71-e8dc5dc96d8c" />
-<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/8b08810c-11b9-42b7-b6d8-e7425711b98c" />
-
+<img width="1039" height="553" alt="Screenshot 2026-05-29 184741" src="https://github.com/user-attachments/assets/1a9e4e71-4f83-464d-9211-69cd08f87bc3" />
+<img width="1042" height="552" alt="image" src="https://github.com/user-attachments/assets/cf55b5d4-ba2f-4eb4-a699-095adcd06a0c" />
+<img width="1043" height="550" alt="image" src="https://github.com/user-attachments/assets/676076e0-b5a6-4ef3-81aa-e7bf5da447ce" />
+<img width="1040" height="525" alt="image" src="https://github.com/user-attachments/assets/a065cc4e-d010-4cbf-b94c-c63c6d34f0cb" />
+<img width="1046" height="522" alt="image" src="https://github.com/user-attachments/assets/7992d934-fcca-4f40-be5c-9632e37e5b63" />
 
 
 
